@@ -9,7 +9,7 @@ public class Bill3 {
 		double NumOfDiners = 3.0;
 		double SumPerDiner = (double)bill/NumOfDiners;
 		double Pay = Math.ceil(SumPerDiner);
-		System.out.println("Dear " + name3 + ", " + name2 + " and " + name1 +
+		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 +
 							": pay " + Pay + " Shekels each");
 
 	    // Replace this comment with the rest of your code   
